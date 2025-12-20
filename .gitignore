@@ -1,0 +1,75 @@
+# Environment variables - keep env.example, ignore .env
+.env
+.env.local
+.env.*.local
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+myhrvenv/
+venv/
+env/
+ENV/
+.venv/
+
+# Test folders and files
+tests/
+test_*.py
+*_test.py
+*.test.py
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Model files (if large)
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
+models/
+*.model
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
