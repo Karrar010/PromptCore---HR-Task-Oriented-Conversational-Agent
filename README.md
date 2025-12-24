@@ -1,6 +1,6 @@
 # HR Task-Oriented Conversational Agent
 
-A production-grade, deterministic HR task-oriented conversational agent built in Python with strict architecture compliance.
+A production-grade,  deterministic HR task-oriented conversational agent built in Python with strict architecture compliance.
 
 ## Setup
 
